@@ -9,7 +9,7 @@ I am a full-stack developer with a focus on creating dynamic, user-friendly webs
 - 🔧 Technologies I work with:
 
   - Frontend: HTML, CSS, JavaScript, React, Bootstrap ,jquery
-  - Backend: PHP 
+  - Backend: PHP ,LARAVEL
   - Database: MySQL, MongoDB
   - Tools: Git, VSCode, XAMPP,Figma,Jira Atlassian
 
@@ -36,6 +36,5 @@ I am a full-stack developer with a focus on creating dynamic, user-friendly webs
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-InfinityFree-FF7100?style=flat&logo=infinityfree&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p> 
