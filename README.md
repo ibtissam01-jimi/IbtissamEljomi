@@ -3,7 +3,9 @@
 
 <h3 align="center"> Hi 👋, I'm Ibtissam El jomi  </h3>
 <h4 align="center">
-I am a full-stack developer with a focus on creating dynamic, user-friendly websites and applications. Currently studying Digital Development at ISMONTIC Tangier OFPPT, where I’m gaining practical experience in web technologies, programming, and software development. My projects involve building interactive forms, managing databases, and designing modern, responsive web applications.
+I am Ibtissam From Morocco,I am a full-stack developer with a focus on creating dynamic, user-friendly websites and applications. Currently studying Digital Development at ISMONTIC Tangier OFPPT, where I’m gaining practical experience in web technologies, programming, and software development. My projects involve building interactive forms, managing databases, and designing modern, responsive web applications. I really enjoy learning programming languages, as well as wireframing and UI/UX design.
+
+
 </h4>
 
 - 🔧 Technologies I work with:
